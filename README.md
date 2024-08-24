@@ -1,6 +1,6 @@
 ### "Greetings" - Tekhartha Zenyatta 👋
 
-I'm Coby Zhong, also known by my online username, CactusPuppy, and I build tools for people, communities, and companies to use. I currently work with [Elo Hell Esports](https://elohell.gg/) in their Overwatch Workshop division, and I'm also developing data analysis tools for [Anwita Biosciences](https://anwitabio.com) (I made Anwita Biosciences' website too!). On the side, you can find me making small game mods and videos.
+I'm CactusPuppy, and I build tools for people, communities, and companies to use. I currently work with [Elo Hell Esports](https://elohell.gg/) in their Overwatch Workshop division, and I'm also developing data analysis tools for [Anwita Biosciences](https://anwitabio.com) (I made Anwita Biosciences' website too!). On the side, you can find me making small game mods and videos.
 
 I co-founded [@GrandeurHammers](https://github.com/GrandeurHammers), graduated from UC Berkeley with a BA in Computer Science and a minor in Data Science, and spend way too much time fiddling with configurations and themes.
 
